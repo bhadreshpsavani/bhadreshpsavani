@@ -1,6 +1,6 @@
 ### Hi there, I'm [Bhadresh!](https://www.linkedin.com/in/bhadreshsavani/) 👋
 
-<h2> A self-taught Machine Learning Engineer from India.</h2>
+<h4> A self-taught Machine Learning Engineer from India.</h4>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
