@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
+- 💼 &nbsp; Working in NLP at Infosys Limited, Pune.
 - 🔭 &nbsp; I’m currently working on [Eye Excercise Application](https://github.com/bhadreshpsavani/EyeExerciseApp)
 - 🌱 &nbsp; I’m currently Exploring [Natural Language Processing](https://github.com/bhadreshpsavani/UnderstandingNLP)
-- 🤔 &nbsp; I enjoy contributing to Opensource projects
 - 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity
-- 💼 &nbsp; Working in NLP at Infosys Limited, Pune.
+- 🤔 &nbsp; I enjoy contributing to Opensource projects
 - ✍️ &nbsp; [Blog](https://medium.com/@bhadreshpsavani) Writing as hobbies.
 
 <h3>🛠 Tech Stack</h3>
