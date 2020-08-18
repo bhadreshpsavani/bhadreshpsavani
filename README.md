@@ -3,12 +3,13 @@
 <h2> A self-taught Machine Learning Engineer from India.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
-- 🔭 &nbsp; I’m currently working on Computer Pointer Controller
-- 🌱 &nbsp; I’m currently Exploring Natural Language Processing
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as System Engineer at Infosys Limited, Pune.
-- ✍️ &nbsp; Blog Writing as hobbies.
+
+- 🔭 &nbsp; I’m currently working on [Eye Excercise Application](https://github.com/bhadreshpsavani/EyeExerciseApp)
+- 🌱 &nbsp; I’m currently Exploring [Natural Language Processing](https://github.com/bhadreshpsavani/UnderstandingNLP)
+- 🤔 &nbsp; I enjoy contributing to Opensource projects
+- 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity
+- 💼 &nbsp; Working in NLP at Infosys Limited, Pune.
+- ✍️ &nbsp; [Blog](https://medium.com/@bhadreshpsavani) Writing as hobbies.
 
 <h3>🛠 Tech Stack</h3>
 
