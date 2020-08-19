@@ -19,8 +19,5 @@
 - 🖥 &nbsp; Illustrator| Photoshop | Corel Draw
 
 <br/>
-
-<tr>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadreshpsavani&layout=compact&hide=html&theme=onedark" alt="bhadreshpsavani" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhadreshpsavani&show_icons=true&theme=onedark" alt="bhadreshpsavani" />
-</tr>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=bhadreshpsavani&show_icons=true&theme=onedark" alt="bhadreshpsavani" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhadreshpsavani&layout=compact&hide=html&theme=onedark" alt="bhadreshpsavani" />
