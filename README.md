@@ -9,7 +9,7 @@
 - 🌱 &nbsp; I’m currently Exploring [Natural Language Processing](https://github.com/bhadreshpsavani/UnderstandingNLP)
 - 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity
 - 🤔 &nbsp; I enjoy contributing to Opensource projects
-- ✍️ &nbsp; I also write [Blog](https://medium.com/@bhadreshpsavani) 
+- ✍️ &nbsp; I also write [Blogs](https://medium.com/@bhadreshpsavani)
 
 <h3>🛠 Tech Stack</h3>
 
