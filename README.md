@@ -11,7 +11,7 @@
 - 🔭 &nbsp; I’m currently working on [Eye Excercise Application](https://github.com/bhadreshpsavani/EyeExerciseApp)
 - 🌱 &nbsp; I’m currently Exploring [Natural Language Processing](https://github.com/bhadreshpsavani/UnderstandingNLP)
 - 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity
-- 🤔 &nbsp; I enjoy contributing to Opensource projects
+- 😍 &nbsp; I enjoy contributing to Opensource projects
 - ✍️ &nbsp; I also write [Blogs](https://medium.com/@bhadreshpsavani)
 
 
