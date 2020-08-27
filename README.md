@@ -19,5 +19,5 @@
 
 - 💻 &nbsp; Python | Java 
 - 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
-- 🔧 &nbsp; Git | Markdown | Pytorch | Pandas | Numoy
+- 🔧 &nbsp; Git | Markdown | Pytorch | Pandas | Numpy
 - 🖥 &nbsp; Illustrator| Photoshop | Corel Draw
