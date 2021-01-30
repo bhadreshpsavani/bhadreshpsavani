@@ -8,6 +8,7 @@
 
 - 💼 &nbsp; Nia Chatbot NLP R&D team at Infosys Limited
 - 🔭 &nbsp; Question Anwering Domain in NLP
+- 🎓 &nbsp; Data Science, ML
 - 😍 &nbsp; Contributing to Opensource projects
 - ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
 
@@ -15,12 +16,6 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java 
-- 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
 - 🔧 &nbsp; Git | TensorFlow | Pytorch | Docker | Azure | AWS
+- 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
 - 🖥 &nbsp; Illustrator| Photoshop | Corel Draw
-
-<h3> Courses </h3>
-- 🎓 &nbsp; Data Scientist Graduate From Practicum
-- 🎓 &nbsp; AWS Machine Learning Nenodegree Graduate
-- 🎓 &nbsp; Intel Edge AI Nenodegree Graduate 
-- 🎓 &nbsp; Computer Vision Nenodegree Graduate
