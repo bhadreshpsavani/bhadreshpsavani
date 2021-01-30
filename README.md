@@ -7,10 +7,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working in NLP at Infosys Limited, Pune.
-- 🔭 &nbsp; I’m currently working on [Eye Excercise Application](https://github.com/bhadreshpsavani/EyeExerciseApp)
-- 🌱 &nbsp; I’m currently Exploring [Natural Language Processing](https://github.com/bhadreshpsavani/UnderstandingNLP)
-- 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity
+- 💼 &nbsp; Working in Nia Chatbot NLP Reasearch and development team at Infosys Limited, Pune.
+- 🔭 &nbsp; I’m currently working on Question Anwering Domain in NLP
+- 🌱 &nbsp; I’m currently Exploring Magical Transformers 
+- 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity, docker and MLOPs
 - 😍 &nbsp; I enjoy contributing to Opensource projects
 - ✍️ &nbsp; I also write [Blogs](https://medium.com/@bhadreshpsavani)
 
