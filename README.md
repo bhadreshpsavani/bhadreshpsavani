@@ -7,12 +7,14 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Working in Nia Chatbot NLP Reasearch and development team at Infosys Limited, Pune.
-- 🔭 &nbsp; I’m currently working on Question Anwering Domain in NLP
-- 🌱 &nbsp; I’m currently Exploring Magical Transformers 
-- 🎓 &nbsp; Studying Machine Learning using AWS and Azure on Udacity, docker and MLOPs
-- 😍 &nbsp; I enjoy contributing to Opensource projects
-- ✍️ &nbsp; I also write [Blogs](https://medium.com/@bhadreshpsavani)
+- 💼 &nbsp; Nia Chatbot NLP R&D team at Infosys Limited
+- 🔭 &nbsp; Question Anwering Domain in NLP
+- 🎓 &nbsp; Data Scientist Grduate From Practicum
+- 🎓 &nbsp; AWS Machine Learning Nenodegree Graduate
+- 🎓 &nbsp; Intel Edge AI Nenodegree Graduate 
+- 🎓 &nbsp; Computer Vision Nenodegree Graduate
+- 😍 &nbsp; Contributing to Opensource projects
+- ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
 
 
 <h3>🛠 Tech Stack</h3>
