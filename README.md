@@ -9,8 +9,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Nia Chatbot NLP R&D team at Infosys Limited
-- 🔭 &nbsp; Question Anwering Domain in NLP
 - 🎓 &nbsp; Data Science, ML
+- 🔭 &nbsp; Question Anwering Domain in NLP
 - 😍 &nbsp; Contributing to Opensource projects
 - ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
 
@@ -20,4 +20,4 @@
 - 💻 &nbsp; Python | Java 
 - 🔧 &nbsp; Git | TensorFlow | Pytorch | Docker | Azure | AWS
 - 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
-- 🖥 &nbsp; Illustrator| Photoshop | Corel Draw
+- 🖥 &nbsp; Photoshop 
