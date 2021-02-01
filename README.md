@@ -17,7 +17,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java 
-- 🔧 &nbsp; Git | TensorFlow | Pytorch | Docker | Azure | AWS
+- 💻 &nbsp; Python | Java | Linux | Git | Docker
+- 🔧 &nbsp; TensorFlow | Pytorch | Azure | AWS
 - 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
 - 🖥 &nbsp; Photoshop 
