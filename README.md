@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Nia Chatbot NLP R&D team at Infosys Limited
+- 💼 &nbsp; NLP R&D team at Infosys Limited
 - 🎓 &nbsp; Data Science, ML
 - 🔭 &nbsp; Question Anwering Domain in NLP
 - 😍 &nbsp; Contributing to Opensource projects
