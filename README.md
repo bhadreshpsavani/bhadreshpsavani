@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; NLP at Quantiphi Analytics Solution Private Limited, Mumbai
+- 💼 &nbsp; Quantiphi Analytics Solution Private Limited, Mumbai
 - 🎓 &nbsp; Data Science, ML
 - 🔭 &nbsp; Question Anwering Domain in NLP
 - 😍 &nbsp; Contributing to Opensource projects
