@@ -8,7 +8,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; LTIMindtree Pune
+- 💼 &nbsp; LTIMindtree
 - 🎓 &nbsp; Data Science, ML
 - 🔭 &nbsp; MLOPs
 - 😍 &nbsp; Contributing to Opensource projects and AI
