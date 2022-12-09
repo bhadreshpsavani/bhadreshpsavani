@@ -8,10 +8,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; Quantiphi Analytics Solution Private Limited, Mumbai
+- 💼 &nbsp; LTIMindtree Pune
 - 🎓 &nbsp; Data Science, ML
-- 🔭 &nbsp; Question Anwering Domain in NLP
-- 😍 &nbsp; Contributing to Opensource projects
+- 🔭 &nbsp; MLOPs
+- 😍 &nbsp; Contributing to Opensource projects and AI
 - ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
 
 
