@@ -6,18 +6,24 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=bhadreshpsavani&show_icons=true&theme=onedark" alt="bhadreshpsavani" />
 
-<h3> 👨🏻‍💻 About Me </h3>
 
-- 💼 &nbsp; LTIMindtree
-- 🎓 &nbsp; Data Science, ML
-- 🔭 &nbsp; MLOPs
-- 😍 &nbsp; Contributing to Opensource projects and AI
-- ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
+<div class="float-container">
 
-
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python | Java | Linux | Git | Docker
-- 🔧 &nbsp; TensorFlow | Pytorch | Azure | AWS
-- 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
-- 🖥 &nbsp; Photoshop 
+  <div class="float-child green">
+    <h3> 👨🏻‍💻 About Me </h3>
+    - 💼 &nbsp; LTIMindtree
+    - 🎓 &nbsp; Data Science, ML
+    - 🔭 &nbsp; MLOPs
+    - 😍 &nbsp; Contributing to Opensource projects and AI
+    - ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
+  </div>
+  
+  <div class="float-child blue">
+    <h3>🛠 Tech Stack</h3>
+    - 💻 &nbsp; Python | Java | Linux | Git | Docker
+    - 🔧 &nbsp; TensorFlow | Pytorch | Azure | AWS
+    - 🌐 &nbsp; HTML | CSS | Angular | ReactJS 
+    - 🖥 &nbsp; Photoshop 
+  </div>
+  
+</div>
