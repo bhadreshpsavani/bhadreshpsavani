@@ -3,9 +3,11 @@
 Python virtual environments are used to isolate package installation from the system.
 
 ## 1. Install the virtualenv environment:
+For Linux
 ```cmd
 sudo apt-get install -y virtualenv
 ```
+For Windows
 ```cmd
 pip install virtualenv
 ```
