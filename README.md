@@ -11,7 +11,7 @@
 
 <div class="float-container">
 
-  <div class="float-child green" align="right">
+  <div class="float-child green">
     <h3> 👨🏻‍💻 About Me </h3>
     - 💼 &nbsp; LTIMindtree
     - 🎓 &nbsp; Data Science, ML
@@ -20,7 +20,7 @@
     - ✍️ &nbsp; [Blogs](https://medium.com/@bhadreshpsavani)
   </div>
   
-  <div class="float-child blue" align="left">
+  <div class="float-child blue">
     <h3>🛠 Tech Stack</h3>
     - 💻 &nbsp; Python | Java | Linux | Git | Docker
     - 🔧 &nbsp; TensorFlow | Pytorch | Azure | AWS
